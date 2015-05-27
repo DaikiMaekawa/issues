@@ -1,4 +1,3 @@
 ## issues
 
-Daiki's issues
-
+Issues for Daiki's hobby
